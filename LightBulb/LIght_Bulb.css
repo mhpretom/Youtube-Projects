@@ -1,0 +1,39 @@
+
+
+
+h1{
+    text-align:center;
+    font-family:Helvetica;
+    font-weight:500;
+    margin-top:50px;
+}
+
+.container{
+    width:400px;
+    height:400px;
+    display:table;
+    margin:auto;
+}
+
+.bulb-container{
+    display:table;
+    margin:auto;
+}
+
+.btn{
+    width:100px;
+    height:30px;
+    border-radius:5px;
+    border:none;
+    background-color:red;
+    color:white;
+    font-weight:bold;
+    font-family:Helvetica;
+    margin-top:50px;
+    cursor:pointer;
+}
+
+.btn-middle{
+    display:table;
+    margin:auto;
+}
