@@ -1,0 +1,51 @@
+
+
+h1{
+    text-align:center;
+    font-weight:500;
+    font-family:helvetica;
+    margin-top:150px;
+}
+
+.container{
+    display:table;
+    margin:auto;
+}
+
+.button-container{
+    width:900px;
+    height:120px;
+    margin-top:50px;
+}
+
+button{
+    width:100px;
+    height: 110px;
+    margin-left:15px;
+    border:1px solid black;
+    border-radius:5px;
+    font-weight:bold;
+    font-size:25px;
+    cursor:pointer;
+}
+.one{
+    background-image:url("crash.png");
+}
+.two{
+    background-image:url("kick.png");
+}
+.three{
+    background-image:url("snare.png");
+}
+.four{
+    background-image:url("tom1.png");
+}
+.five{
+    background-image:url("tom2.png");
+}
+.six{
+    background-image:url("tom3.png");
+}
+.seven{
+    background-image:url("tom4.png");
+}
