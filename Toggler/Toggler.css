@@ -1,0 +1,29 @@
+
+
+h1{
+    text-align:center;
+    margin-top:20px;
+    font-weight:500;
+    font-family:helvetica;
+}
+
+.toggle-container{
+    width:80px;
+    height:40px;
+    background-color:grey;
+    border-radius:25px;
+    margin-left:20px;
+}
+.circle{
+    width:39.5px;
+    height:39.5px;
+    background-color:white;
+    border-radius:25px;
+    margin-left:0px;
+    transition:0.4s;
+}
+
+p{
+    text-align:justify;
+    font-size:20px;
+}
